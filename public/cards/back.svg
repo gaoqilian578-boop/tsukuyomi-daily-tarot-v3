@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="900" viewBox="0 0 600 900" role="img" aria-label="月読タロットカード裏面">
+  <defs>
+    <radialGradient id="moon" cx="50%" cy="32%" r="45%"><stop offset="0" stop-color="#fffaf0"/><stop offset=".36" stop-color="#cfe5ff"/><stop offset=".72" stop-color="#6d9fe8" stop-opacity=".35"/><stop offset="1" stop-color="#071225" stop-opacity="0"/></radialGradient>
+    <linearGradient id="gold" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#f7dfa2"/><stop offset=".5" stop-color="#b98d3e"/><stop offset="1" stop-color="#fff0bd"/></linearGradient>
+  </defs>
+  <rect width="600" height="900" rx="42" fill="#03050d"/>
+  <rect x="28" y="28" width="544" height="844" rx="34" fill="#071226" stroke="url(#gold)" stroke-width="4"/>
+  <rect x="58" y="58" width="484" height="784" rx="24" fill="none" stroke="#a9d4ff" stroke-opacity=".32" stroke-width="2"/>
+  <circle cx="300" cy="310" r="178" fill="url(#moon)"/>
+  <circle cx="300" cy="310" r="118" fill="none" stroke="url(#gold)" stroke-width="3"/>
+  <path d="M300 126c46 56 72 118 72 184s-26 128-72 184c-46-56-72-118-72-184s26-128 72-184Z" fill="none" stroke="#f3d98a" stroke-width="3"/>
+  <text x="300" y="620" fill="#fff4c9" font-family="serif" font-size="56" text-anchor="middle">月読</text>
+  <text x="300" y="674" fill="#a9d4ff" font-family="serif" font-size="24" letter-spacing="4" text-anchor="middle">TSUKUYOMI TAROT</text>
+</svg>
